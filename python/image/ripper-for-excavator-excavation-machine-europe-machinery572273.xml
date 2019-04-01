@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ripper-for-excavator-excavation-machine-europe-machinery572273.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\ripper-for-excavator-excavation-machine-europe-machinery572273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backhoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>108</ymin>
+			<xmax>389</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

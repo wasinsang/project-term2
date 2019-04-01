@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>shutterstock_1023258649579280.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\shutterstock_1023258649579280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>85</ymin>
+			<xmax>546</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>products_408514_6efb2182f1d5e81c5fd66fab23f543e3569270.jpeg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\products_408514_6efb2182f1d5e81c5fd66fab23f543e3569270.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>32</ymin>
+			<xmax>1555</xmax>
+			<ymax>1125</ymax>
+		</bndbox>
+	</object>
+</annotation>

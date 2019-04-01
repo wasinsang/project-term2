@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>small-scale-size-lonking-crawler-lonking-excavator-lg6285583284.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\small-scale-size-lonking-crawler-lonking-excavator-lg6285583284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backhoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>6</ymin>
+			<xmax>280</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

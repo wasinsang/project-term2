@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>shacman-6x4-30ton-capacity-10-wheeler-380hp-dump-tipper-truck577278.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\shacman-6x4-30ton-capacity-10-wheeler-380hp-dump-tipper-truck577278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>130</ymin>
+			<xmax>541</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

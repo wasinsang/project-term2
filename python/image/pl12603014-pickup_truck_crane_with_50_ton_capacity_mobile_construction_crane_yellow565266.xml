@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>pl12603014-pickup_truck_crane_with_50_ton_capacity_mobile_construction_crane_yellow565266.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\pl12603014-pickup_truck_crane_with_50_ton_capacity_mobile_construction_crane_yellow565266.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>86</ymin>
+			<xmax>573</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

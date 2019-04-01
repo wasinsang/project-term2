@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>hyrdraulicexcavators300x240499200.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\hyrdraulicexcavators300x240499200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backhoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>14</ymin>
+			<xmax>293</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

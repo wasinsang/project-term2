@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>new-design-12ton-truck-crane-with-kama-truck41517867024554255.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\new-design-12ton-truck-crane-with-kama-truck41517867024554255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>147</ymin>
+			<xmax>934</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

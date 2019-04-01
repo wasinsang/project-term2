@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>kisspng-caterpillar-inc-john-deere-backhoe-loader-excavat-construction-machine-5b4906d3078695.5840380215315125310308518219.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\kisspng-caterpillar-inc-john-deere-backhoe-loader-excavat-construction-machine-5b4906d3078695.5840380215315125310308518219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>backhoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>33</ymin>
+			<xmax>879</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

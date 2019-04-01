@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>31412112.png</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\31412112.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>10</ymin>
+			<xmax>504</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

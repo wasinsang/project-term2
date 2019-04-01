@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>ldistock-mobilecrane_636x437521222.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\ldistock-mobilecrane_636x437521222.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>40</ymin>
+			<xmax>565</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

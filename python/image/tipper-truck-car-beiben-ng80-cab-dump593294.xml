@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>tipper-truck-car-beiben-ng80-cab-dump593294.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\tipper-truck-car-beiben-ng80-cab-dump593294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>123</ymin>
+			<xmax>505</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

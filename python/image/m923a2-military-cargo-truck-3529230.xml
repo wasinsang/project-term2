@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>m923a2-military-cargo-truck-3529230.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\m923a2-military-cargo-truck-3529230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1034</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>87</ymin>
+			<xmax>1532</xmax>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+</annotation>

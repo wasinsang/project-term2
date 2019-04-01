@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>oq0axus559260.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\oq0axus559260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>19</ymin>
+			<xmax>289</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

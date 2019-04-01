@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>mercedes-benz_arocs_-_dump_truck_version_(1)548249.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\mercedes-benz_arocs_-_dump_truck_version_(1)548249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4200</width>
+		<height>2930</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>130</ymin>
+			<xmax>3986</xmax>
+			<ymax>2796</ymax>
+		</bndbox>
+	</object>
+</annotation>

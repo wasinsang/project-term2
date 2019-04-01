@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>pl16636739-hydraulic_knuckle_boom_truck_crane_with_working_platform_lifting_hook567268.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\pl16636739-hydraulic_knuckle_boom_truck_crane_with_working_platform_lifting_hook567268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>871</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>137</ymin>
+			<xmax>870</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>

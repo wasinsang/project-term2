@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>liebherr-hs-895-(1)523224.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\liebherr-hs-895-(1)523224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>925</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>74</ymin>
+			<xmax>825</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+</annotation>

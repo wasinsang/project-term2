@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>worlds-largest-electric-dump-truck-is-being-built-by-swiss-companies-carousel-1580x530611312.jpg</filename>
+	<path>E:\wasin\wasin\python\wasin\venv\image\worlds-largest-electric-dump-truck-is-being-built-by-swiss-companies-carousel-1580x530611312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1580</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>1</ymin>
+			<xmax>1488</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>
