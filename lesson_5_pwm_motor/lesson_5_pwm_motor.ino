@@ -1,9 +1,9 @@
-int MotorR_1 = 8;
-int MotorR_2 = 7;
-int pwmr = 9;
-int MotorL_1 = 5;
-int MotorL_2 = 4;
-int pwml = 3;
+int MotorR_1 = 11;
+int MotorR_2 = 12;
+int pwmr = 13;
+int MotorL_1 = 8;
+int MotorL_2 = 9;
+int pwml = 10;
 void setup() {
   pinMode (MotorR_1, OUTPUT);
   pinMode (MotorR_2, OUTPUT);
